@@ -2,10 +2,6 @@
 
 > O controle financeiro descomplicado para o seu bolso.
 
-<div align="center">
-  <img src="https://via.placeholder.com/1000x500?text=Preview+do+Meu+Pila" alt="Preview do Projeto" width="100%">
-</div>
-
 ## 💻 Sobre o Projeto
 
 O **Meu Pila** é uma aplicação de gestão financeira desenvolvida para simplificar o controle de entradas e saídas do dia a dia. A ideia é oferecer uma interface limpa e intuitiva, onde o usuário consegue visualizar seu saldo atual e o histórico de transações de forma rápida.
